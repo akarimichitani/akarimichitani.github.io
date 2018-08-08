@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>旅するマルチポテンシャライト</title>
-    <description>自由に旅をしながら情熱と意味を持って仕事を生み出すマルチポテンシャライト、起業家、ノマドワーカーたちを世界中で取材し発信するサイト。
+    <title>akari michitani</title>
+    <description>道谷明里のアート作品ポートフォリオ
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Aug 2018 19:27:52 +0900</pubDate>
-    <lastBuildDate>Tue, 07 Aug 2018 19:27:52 +0900</lastBuildDate>
+    <pubDate>Wed, 08 Aug 2018 12:13:40 +0900</pubDate>
+    <lastBuildDate>Wed, 08 Aug 2018 12:13:40 +0900</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
