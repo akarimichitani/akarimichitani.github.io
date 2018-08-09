@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 旅するマルチポテンシャライト
+title: akari michitani
 description: > # this means to ignore newlines until "baseurl:"
-  自由に旅をしながら情熱と意味を持って仕事を生み出すマルチポテンシャライト、起業家、ノマドワーカーたちを世界中で取材し発信するサイト。
+  道谷明里のアート作品ポートフォリオ
 keywords: > # this means to ignore newlines until "baseurl:"
-  multipotnomad、マルチポテンシャライト、起業家、ノマドワーカー、ノマド、旅、仕事、就活、新卒、情熱、意味、生み出す、作り出す、世界、取材、動画。
-url: "https://multipotnomad.github.io" # the base hostname & protocol for your site #footer built by link
+  道谷明里、アート、作品、ポートフォリオ、芸術、akari michitani。
+url: "https://akarimichitani.github.io" # the base hostname & protocol for your site #footer built by link
 
 
 # baseurl: ""
@@ -29,7 +29,7 @@ color-2: '#998e8e'
 f: mizuki.kawano.96  # facebook username
 t: multipotnomad  # twitter handle
 i: mizuki._.kawano # instagram username
-y: UCjEc3Ad6TFt9r2IFD0-46xg # youtube channel
+# y: UCjEc3Ad6TFt9r2IFD0-46xg # youtube channel
 
 # Build settings
 markdown: kramdown
@@ -37,8 +37,7 @@ sass:
     style: compressed
 
 #Other
-analytics: 'UA-122836174-1'
-# disqus-shortname: multipotnomad    #Disqus comments
+# analytics: 'UA-122836174-1'
 
 plugins:
   - jekyll-sitemap
