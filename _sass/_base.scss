@@ -177,26 +177,6 @@ pre {
     }
 }
 
-/**
- * responsive
- */
-.for-sp {
-  @include media-query($on-palm) {
-      display: block;
-  }
-  @include media-query($on-laptop) {
-      display: none;
-  }
-}
-
-.for-pc {
-  @include media-query($on-palm) {
-      display: none;
-  }
-  @include media-query($on-laptop) {
-      display: block;
-  }
-}
 
 /**
  * Wrapper

@@ -164,6 +164,26 @@
 }
 
 
+/**
+ * responsive
+ */
+@media screen and (max-width: 767px) {
+   .for-sp {
+     display: block;
+   }
+   .for-pc {
+     display: none;
+   }
+}
+@media screen and (min-width: 768px) {
+    .for-sp {
+      display: none;
+    }
+    .for-pc {
+      display: block;
+    }
+}
+
 
 /**
  * Site footer

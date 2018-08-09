@@ -12,7 +12,6 @@ description: > # this means to ignore newlines until "baseurl:"
 keywords: > # this means to ignore newlines until "baseurl:"
   道谷明里、アート、作品、ポートフォリオ、芸術、akari michitani。
 url: "https://akarimichitani.github.io" # the base hostname & protocol for your site #footer built by link
-baseurl: "akarimichitani.github.io"
 
 # baseurl: ""
 permalink: /:title/
