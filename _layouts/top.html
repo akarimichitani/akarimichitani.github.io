@@ -12,9 +12,13 @@ layout: compress
 
     {% include header.html %}
 
-    <div class="page-content u-pb0">
+    <div class="page-content top">
      <div class="box">
-          <div class="topimage">
+          <div class="topimage for-pc">
+        {% include nav.html %}
+        {{ content }}
+          </div>
+          <div class="topimage for-sp">
         {% include nav.html %}
         {{ content }}
           </div>

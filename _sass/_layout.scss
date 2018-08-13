@@ -192,7 +192,9 @@
    /*  border-top: 1px solid $grey-color-light; */
     padding: $spacing-unit 0;
     border-top: 1px solid #ddd;
-
+}
+.top+.site-footer {
+  border-top: 0;
 }
 
 .footer-heading {
@@ -268,6 +270,12 @@
     padding: 80px 0 $spacing-unit;
     @include media-query($on-palm) {
       padding: 10px 0 $spacing-unit;
+    }
+}
+.page-content.top {
+    padding-bottom: 0;
+    @include media-query($on-palm) {
+      padding: 0;
     }
 }
 
@@ -712,4 +720,14 @@ ul.contact-ul,
         font-size: 18px;
         margin-bottom: 0;
     }
+}
+
+.topimage {
+  text-align: center;
+}
+.topimage div.for-pc {
+  height: 100%;
+}
+.topimage div.for-pc img {
+  height: 100%;
 }
