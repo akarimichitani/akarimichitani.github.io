@@ -1,8 +1,13 @@
 ---
 layout: page
-title: このサイトについて
+title: ABOUT
 permalink: /about/
 ---
 
 
-自由に旅をしながら情熱と意味を持って仕事を生み出すマルチポテンシャライト、起業家、ノマドワーカーたちを世界中で取材し発信するサイトです。
+creator: @kari michitani<br>
+1998//waseda university of education
+
+
+twitter <a href="https://twitter.com/{{site.t}}" target="_blank">{{site.t}}</a><br>
+instagram <a href="https://instagram.com/{{site.i}}" target="_blank">{{site.i}}</a>

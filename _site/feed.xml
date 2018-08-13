@@ -6,18 +6,13 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Aug 2018 19:03:02 +0900</pubDate>
-    <lastBuildDate>Thu, 09 Aug 2018 19:03:02 +0900</lastBuildDate>
+    <pubDate>Mon, 13 Aug 2018 20:30:32 +0900</pubDate>
+    <lastBuildDate>Mon, 13 Aug 2018 20:30:32 +0900</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
         <title>テスト</title>
-        <description>&lt;!-- ![sample post](/dist/images/image-2.png){: .img-rounded} --&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pJJnzNGUzfM&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h1&gt;フリスビーをする&lt;/h1&gt;
-&lt;p&gt;Australian University Gamesというオーストラリア全国の大学が集まり各スポーツ種目をトーナメント形式で競い合う、5日間のお祭り。&lt;/p&gt;
-&lt;p&gt;日中は試合をして、夜は遊び呆ける。宿に帰ってその日の試合の反省や称賛を共有し、街に繰り出し飲んで踊って遊ぶ。&lt;br /&gt;翌日また朝から試合に臨む。それを繰り返す濃度の高い5日間。&lt;/p&gt;
+        <description>&lt;p&gt;あいうえお&lt;/p&gt;
 
 &lt;h1 id=&quot;header-1&quot;&gt;Header 1&lt;/h1&gt;
 

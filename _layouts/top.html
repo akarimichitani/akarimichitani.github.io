@@ -1,0 +1,36 @@
+---
+layout: compress
+---
+
+
+<!DOCTYPE html>
+<html lang="ja">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content u-pb0">
+     <div class="box">
+          <div class="topimage">
+        {% include nav.html %}
+        {{ content }}
+          </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+<script>
+    (function() {
+        var font = document.createElement('link');
+        font.type = 'text/css';
+        font.rel = 'stylesheet';
+        var s = document.getElementsByTagName('link')[0];
+        s.parentNode.insertBefore(font, s);
+      })();
+</script>
+</body>
+</html>

@@ -30,3 +30,19 @@ function closeNav() {
 // var disqus_config = function () {
 //   this.language = "ja";
 // };
+
+// imagegridgallery fullscreen enable
+$(document).ready(function(){
+  $('#gallery-container').sGallery({
+    fullScreenEnabled: true //default is false
+  });
+});
+
+$(document).ready(function () {
+  hsize = $(window).height();
+  $(".topimage").css("max-height", hsize + "px");
+});
+$(window).resize(function () {
+  hsize = $(window).height();
+  $(".topimage").css("max-height", hsize + "px");
+});

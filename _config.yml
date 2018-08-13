@@ -25,10 +25,10 @@ color-2: '#998e8e'
 #color-2: '#159957'
 
 #footer icons
-f: mizuki.kawano.96  # facebook username
-t: multipotnomad  # twitter handle
-i: mizuki._.kawano # instagram username
-# y: UCjEc3Ad6TFt9r2IFD0-46xg # youtube channel
+# f:   # facebook username
+t: "@kari_michitani"  # twitter handle
+i: "michitan1" # instagram username
+# y:  # youtube channel
 
 # Build settings
 markdown: kramdown
@@ -36,7 +36,7 @@ sass:
     style: compressed
 
 #Other
-# analytics: 'UA-122836174-1'
+# analytics: ''
 
 plugins:
   - jekyll-sitemap
