@@ -30,6 +30,7 @@ function closeNav() {
 // var disqus_config = function () {
 //   this.language = "ja";
 // };
+
 // imagegridgallery fullscreen enable
 $(document).ready(function(){
   $('#gallery-container').sGallery({
@@ -37,6 +38,7 @@ $(document).ready(function(){
   });
 });
 
+// top image size
 $(document).ready(function () {
   hsize = $(window).height();
   footerHeight = $("footer").height();
