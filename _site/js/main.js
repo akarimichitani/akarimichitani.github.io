@@ -39,9 +39,12 @@ $(document).ready(function(){
 
 $(document).ready(function () {
   hsize = $(window).height();
-  $(".topimage.for-pc").css("height", hsize + "px");
+  footerHeight = $("footer").height();
+  $(".topimage.for-pc").css("height", hsize - 80 - footerHeight+ "px");
 });
 $(window).resize(function () {
   hsize = $(window).height();
-  $(".topimage.for-pc").css("height", hsize + "px");
+  footerHeight = $("footer").height();
+
+  $(".topimage.for-pc").css("height", hsize - 80 - footerHeight + "px");
 });

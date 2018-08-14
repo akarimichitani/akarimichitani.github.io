@@ -731,3 +731,17 @@ ul.contact-ul,
 .topimage div.for-pc img {
   height: 100%;
 }
+.topimage.for-sp {
+  padding-top: 70px;
+}
+
+// font-awesome
+.fa-external-link-alt {
+  display: none;
+  @include media-query($on-palm) {
+    display: inline-block;
+    padding: 0 0 0 0.5em;
+    vertical-align: super;
+    font-size: 0.7em;
+  }
+}
