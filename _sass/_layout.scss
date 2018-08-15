@@ -202,6 +202,9 @@
 }
 .top+.site-footer {
   border-top: 0;
+  @include media-query($on-palm) {
+    padding: 0;
+  }
 }
 
 .footer-heading {
