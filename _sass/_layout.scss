@@ -231,6 +231,10 @@
     padding-left: $spacing-unit / 2;
     @include media-query($on-palm) {
       padding-left: 0;
+      display: -webkit-flex;
+      display: -ms-flex;
+      display: flex;
+      justify-content: space-around;
     }
 }
 
